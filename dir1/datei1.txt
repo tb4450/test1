@@ -1,0 +1,5 @@
+git kann keine leeren verzeichnisse tracken!
+git kann nur dateien in verzeichnissen tracken.
+"git add leeresverzeichnis" würde die dateien in leeresverzeichnis hinzunehmen
+aber nicht das leere verzeichnis.
+
