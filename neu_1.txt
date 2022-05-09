@@ -1,4 +1,9 @@
 neue datei in test1_zweiter_checkout
+gogo
 datei 1
 master branch neue zeile
-eine änderung im master.
+eine änderung im master
+das geht aber nicht.
+nochmals
+nochmals
+
